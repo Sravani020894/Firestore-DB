@@ -1,0 +1,7 @@
+2022-02-03 12:28:49,536 Harmless debug Message
+2022-02-03 12:28:49,536 In main
+2022-02-03 12:28:49,536 In make_json
+2022-02-03 12:28:49,537 Converting C:\python\python3.10v\CFF\Test.csv to C:\python\python3.10v\CFF\Test.json
+2022-02-03 12:28:49,812 Making request: POST https://oauth2.googleapis.com/token
+2022-02-03 12:28:49,818 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2022-02-03 12:28:50,011 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None

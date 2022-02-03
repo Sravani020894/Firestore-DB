@@ -1,0 +1,32 @@
+{
+    "1": {
+        "Name": "Dominique",
+        "Email": "dominique@yahoo.com",
+        "phonenumber": "123456789",
+        "Address": {
+            "City": "cleveland",
+            "Street": "mayfield",
+            "Zipcode": "44124"
+        },
+        "Student": {
+            "Name": "Bryan",
+            "Gender": "M",
+            "DOB": "2011-11-02"
+        }
+    },
+    "2": {
+        "Name": "rebba",
+        "Email": "rebba@yahoo.com",
+        "phonenumber": "123456789",
+        "Address": {
+            "City": "cleveland",
+            "Street": "mayfield",
+            "Zipcode": "44124"
+        },
+        "Student": {
+            "Name": "sravani",
+            "Gender": "F",
+            "DOB": "2010-08-02"
+        }
+    }
+}
